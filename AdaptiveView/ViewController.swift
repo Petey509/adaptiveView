@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  ResponsiveApp
 //
-//  Created by Peterson Cemoin on 11/2/19.
+//  Created by petey on 11/2/19.
 //  Copyright © 2019 YourAreAwesome. All rights reserved.
 //
 
